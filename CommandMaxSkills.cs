@@ -15,7 +15,7 @@ namespace Skills
 
         public AllowedCaller AllowedCaller => AllowedCaller.Both;
 
-        public List<string> Permissions => new List<string>() { "skills.maxskills" };
+        public List<string> Permissions => new List<string>() { "skills.maxskills" "ms""mstrue" };
 
         public List<string> Aliases => new List<string>();
 
